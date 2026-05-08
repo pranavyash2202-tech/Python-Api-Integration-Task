@@ -34,23 +34,6 @@ Learn how Python communicates with external APIs and handles JSON data efficient
 
 ```text
 https://jsonplaceholder.typicode.com/users
-```
-
----
-
-# 📂 Project Structure
-
-```text
-python-api-integration-task/
-│
-├── api_task.py
-├── README.md
-├── screenshots/
-│   ├── code.png
-│   └── output.png
-└── Task_3_Report.docx
-```
-
 ---
 
 # ⚙️ Installation
